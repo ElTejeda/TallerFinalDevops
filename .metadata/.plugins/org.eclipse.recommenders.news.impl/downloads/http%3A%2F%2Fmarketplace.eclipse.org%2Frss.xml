@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>http://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Exporter for Eclipse</title>
+    <link>http://marketplace.eclipse.org/content/exporter-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/launcherIcon256_0_0.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2019-06-08 05:57&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Yatta%22&quot;&gt;Yatta&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2018-03-13 20:16&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/febelshuser/listings&quot; title=&quot;Frederic Ebelshaeuser&quot;&gt;Frederic Ebelshaeuser&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Save and Distribute Your Eclipse setup&lt;/h2&gt;
+&lt;p&gt;The Yatta Eclipse Exporter is an easy way to save your Eclipse setups and Workspace configurations – for yourself or your team. Export your Eclipse configuration, installed plug-ins, workspace settings and project configuration quickly and easily to a single local file. Share your project setup with your team and just start building great software. Try it now - it&#039;s free!&lt;/p&gt;
+&lt;h3&gt;What&#039;s in it?&lt;/h3&gt;
+&lt;p&gt;The Exporter lets you save the setup of any Eclipse to a single file. We call that file a profile. It&#039;s a &quot;snapshot&quot; of your Eclipse installation and workspace, containing information about plug-ins, workspace settings (e.g. project metadata and -preferences, build server configurations and working sets), and links to source code and task repositories (like on GitHub). No actual source code of course.&lt;/p&gt;
+&lt;h3&gt;Export Eclipse setups &lt;/h3&gt;
+&lt;p&gt;Export your running Eclipse environment directly from within your IDE.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Turn any Eclipse installation into a profile.&lt;/li&gt;
+&lt;li&gt;Create profile templates for yourself or your team(s)&lt;/li&gt;
+&lt;li&gt;Need similar setups for your projects? Just create a basic installation, export, and apply it whenever you need.&lt;/li&gt;
+&lt;li&gt;Export complete project setups to get your team ready to go in minutes.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Install Eclipse setups&lt;/h3&gt;
+&lt;p&gt;Use the lightweight &lt;a href=&quot;https://www.yatta.de/profiles?utm_source=eclipse&amp;amp;utm_medium=marketplace%20entry&amp;amp;utm_campaign=Eclipse%20Exporter%20plugIn&amp;amp;utm_term=exporter%20plugin&quot; rel=&quot;nofollow&quot;&gt;Yatta Launcher&lt;/a&gt; desktop app to install exported setups from scratch with just a few clicks. &lt;a href=&quot;https://www.yatta.de/profiles/help#import-profile&quot; rel=&quot;nofollow&quot;&gt;More information how to install an exported profile&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Share Eclipse setups&lt;/h3&gt;
+&lt;p&gt;Deploy your Eclipse setup and workspace to your whole team and get everyone ready to start coding in seconds.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Share exported setups locally, via e-mail, or any way you like&lt;/li&gt;
+&lt;li&gt;Help new team members get productive.&lt;/li&gt;
+&lt;li&gt;Distribute your new project setup faster. Stop sending zip files with Eclipse setups.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Download Yatta Profiles for Eclipse&lt;/h3&gt;
+&lt;p&gt;Visit our &lt;a href=&quot;https://www.yatta.de/profiles?utm_source=eclipse&amp;amp;utm_medium=marketplace%20entry&amp;amp;utm_campaign=Eclipse%20Exporter%20plugIn&amp;amp;utm_term=exporter%20plugin&quot; rel=&quot;nofollow&quot;&gt;website&lt;/a&gt; for more information and free download.&lt;/p&gt;
+&lt;p&gt;Note that Profiles is still beta but stable – and productive. Anyhow, don&#039;t hesitate to send us feedback or file an error report in case anything doesn&#039;t work as intended.&lt;/p&gt;
+&lt;p&gt;We are working hard to continuously improve Profiles as well as other parts of the Eclipse IDE. Stay tuned for our roadmap. There is a lot more to come. You have a feature request? &lt;a href=&quot;http://www.yatta.de/contact/&quot; rel=&quot;nofollow&quot;&gt;Send us an email!&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Contact us&lt;/h3&gt;
+&lt;p&gt;Do you need more information? &lt;a href=&quot;http://www.yatta.de/contact/&quot; rel=&quot;nofollow&quot;&gt;Contact us&lt;/a&gt; and follow the latest Yatta News on &lt;a href=&quot;http://twitter.com/YattaSolutions/&quot; rel=&quot;nofollow&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;http://facebook.com/YattaSolutions/&quot; rel=&quot;nofollow&quot;&gt;Facebook&lt;/a&gt; or &lt;a href=&quot;https://plus.google.com/112332560095044183443/posts&quot; rel=&quot;nofollow&quot;&gt;Google +&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 14 Mar 2018 00:16:40 +0000</pubDate>
+ <dc:creator>febelshuser</dc:creator>
+ <guid isPermaLink="false">3972196 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/exporter-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>Liferay IDE</title>
+    <link>http://marketplace.eclipse.org/content/liferay-ide</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/liferay-logo.png&quot; width=&quot;65&quot; height=&quot;65&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-06-07 15:35&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Liferay%2C%20Inc%22&quot;&gt;Liferay, Inc&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2010-06-15 17:56&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/gamersonokv/listings&quot; title=&quot;Greg Amerson&quot;&gt;Greg Amerson&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Liferay IDE provides Eclipse tooling for &lt;a href=&quot;http://www.liferay.com&quot; rel=&quot;nofollow&quot;&gt;Liferay development platform&lt;/a&gt; for versions 6.2 and 7.0 including support for module development (OSGi) for Liferay Digital Enterprise 7.0 For more information on the latest release of the Liferay IDE see below: &lt;a href=&quot;https://web.liferay.com/web/gregory.amerson/blog/-/blogs/liferay-ide-3-0-0-ga1-released&quot; rel=&quot;nofollow&quot;&gt;https://web.liferay.com/web/gregory.amerson/blog/-/blogs/liferay-ide-3-0...&lt;/a&gt; Also the main documentation and community information about the Liferay IDE is located on the following page: &lt;a href=&quot;https://web.liferay.com/community/liferay-projects/liferay-ide/overview&quot; rel=&quot;nofollow&quot;&gt;https://web.liferay.com/community/liferay-projects/liferay-ide/overview&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 15 Jun 2010 21:56:43 +0000</pubDate>
+ <dc:creator>gamersonokv</dc:creator>
+ <guid isPermaLink="false">1301 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/liferay-ide#comments</comments>
+  </item>
+  <item>
+    <title>Groovy Development Tools</title>
+    <link>http://marketplace.eclipse.org/content/groovy-development-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/groovy-logo-medium.png&quot; width=&quot;110&quot; height=&quot;55&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-06-07 10:28&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Pivotal%22&quot;&gt;Pivotal&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2012-07-04 13:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/aclement/listings&quot; title=&quot;Andrew Clement&quot;&gt;Andrew Clement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Groovy Development Tools (GDT) provides Eclipse and Maven (m2e) support for the &lt;a href=&quot;http://groovy-lang.org&quot; rel=&quot;nofollow&quot;&gt;Apache Groovy&lt;/a&gt; programming language. GDT adds full-featured IDE support including editors, wizards, content assist, debugging, refactoring and searching.&lt;/p&gt;
+&lt;p&gt;The GDT requires the &lt;a href=&quot;https://marketplace.eclipse.org/content/eclipse-java-development-tools-0&quot; rel=&quot;nofollow&quot;&gt;Eclipse Java Development Tools&lt;/a&gt; (JDT) as it builds upon Java/JVM support, including Java interoperability (bi-directional dependencies via joint compilation). If your Eclipse flavor does not include JDT, you must install it first.&lt;/p&gt;
+&lt;p&gt;GDT does not provide any direct support for &lt;a href=&quot;http://grails.org&quot; rel=&quot;nofollow&quot;&gt;Grails&lt;/a&gt;. If you want Grails tooling, then please consider &lt;a href=&quot;https://marketplace.eclipse.org/content/groovygrails-tool-suite-ggts-eclipse&quot; rel=&quot;nofollow&quot;&gt;Groovy-Grails Tools Suite&lt;/a&gt; or &lt;a href=&quot;https://github.com/spring-projects/grails-ide&quot; rel=&quot;nofollow&quot;&gt;spring-projects/grails-ide&lt;/a&gt; for your Grails projects.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 04 Jul 2012 17:05:41 +0000</pubDate>
+ <dc:creator>aclement</dc:creator>
+ <guid isPermaLink="false">321859 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/groovy-development-tools#comments</comments>
+  </item>
+  <item>
+    <title>EGradle Editor</title>
+    <link>http://marketplace.eclipse.org/content/egradle-editor</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/EGradle-Profile-Image-Editor-Marketplace.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-06-07 07:38&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Albert%20Tregnaghi%22&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2017-06-14 06:02&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/atregnaghi/listings&quot; title=&quot;Albert Tregnaghi&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;EGradle Editor as standalone plugin, so other IDEs can use the editor implementation as well or users just install the editor.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;https://marketplace.eclipse.org/content/egradle-ide&quot; rel=&quot;nofollow&quot;&gt;EGradle IDE&lt;/a&gt; does contain this editor which has much features:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Code completion and tooltips&lt;/li&gt;
+&lt;li&gt;Syntax highlighting
+&lt;ul&gt;&lt;li&gt;Supporting Java, Groovy, Gradle keywords, GroovyDoc etc.&lt;/li&gt;
+&lt;li&gt;Colors customizable&lt;/li&gt;
+&lt;li&gt;Also additional default colors for dark theme&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Outline view + Quick outline&lt;/li&gt;
+&lt;li&gt;Parse error handling&lt;/li&gt;
+&lt;li&gt;Bracket switching and highlighting, auto close on curly brackets&lt;/li&gt;
+&lt;li&gt;Block comments (CTRL + 7)&lt;/li&gt;
+&lt;li&gt;Hyperlinking to other gradle files, URLs, Java and Groovy types&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Additional Links&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/egradle/wiki&quot; rel=&quot;nofollow&quot;&gt;EGradle Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://rawgit.com/de-jcup/egradle/master/egradle-plugin-main/html/user_guide/editor.html&quot; rel=&quot;nofollow&quot;&gt;Online help preview (master branch)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLnO8pgGpD7DlvsszAIjM26_2_0B9VJV4n&quot; rel=&quot;nofollow&quot;&gt;Tutorial playlist on YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://plus.google.com/u/0/b/110015234908380752132/collection/s8j0ME&quot; rel=&quot;nofollow&quot;&gt;EGradle news at Google+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/egradle/issues&quot; rel=&quot;nofollow&quot;&gt;Issue tracker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/egradle/releases&quot; rel=&quot;nofollow&quot;&gt;Release history&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/egradle&quot; rel=&quot;nofollow&quot;&gt;Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 14 Jun 2017 10:02:03 +0000</pubDate>
+ <dc:creator>atregnaghi</dc:creator>
+ <guid isPermaLink="false">3493769 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/egradle-editor#comments</comments>
+  </item>
+  <item>
+    <title>EGradle IDE</title>
+    <link>http://marketplace.eclipse.org/content/egradle-ide</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/EGradle-Profile-Image-Marketplace.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-06-07 07:35&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Albert%20Tregnaghi%22&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2016-09-13 14:26&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/atregnaghi/listings&quot; title=&quot;Albert Tregnaghi&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;EGradle is a lightweight, fast and comfortable gradle integration for eclipse &lt;/strong&gt;(&amp;gt;= Neon)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+Features overview
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Console and Eclipse can be used parallel without conflicts&lt;/li&gt;
+&lt;li&gt;New Project Wizard
+&lt;ul&gt;&lt;li&gt;Build in templates for full java projects (single and multi project)&lt;/li&gt;
+&lt;li&gt;Possibility to create custom templates &lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://marketplace.eclipse.org/content/egradle-editor&quot; rel=&quot;nofollow&quot;&gt;EGradle Editor&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;Syntax highlighting
+&lt;ul&gt;&lt;li&gt;Supporting Java, Groovy, Gradle keywords, GroovyDoc etc.&lt;/li&gt;
+&lt;li&gt;Colors customizable&lt;/li&gt;
+&lt;li&gt;Also additional default colors for dark theme&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Outline view + Quick outline&lt;/li&gt;
+&lt;li&gt;Code completion and tooltips&lt;/li&gt;
+&lt;li&gt;Parse error handling&lt;/li&gt;
+&lt;li&gt;Bracket switching and highlighting, auto close on curly brackets&lt;/li&gt;
+&lt;li&gt;Block comments (CTRL + 7)&lt;/li&gt;
+&lt;li&gt;Hyperlinking to other gradle files, URLs, Java and Groovy types&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Gradle execution
+&lt;ul&gt;&lt;li&gt;Launch configurations&lt;/li&gt;
+&lt;li&gt;Quick launch&lt;/li&gt;
+&lt;li&gt;Compile and evaluation errors occurring at launch time are marked in editor and error view&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;JUnit Integration
+&lt;ul&gt;&lt;li&gt;Launch tests
+&lt;ul&gt;&lt;li&gt;Toolbar icon to launch all tests&lt;/li&gt;
+&lt;li&gt;By launch configurations&lt;/li&gt;
+&lt;li&gt;Launch from editor&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Launched tests results are automatically shown in junit result&lt;/li&gt;
+&lt;li&gt;Import all junit results from existing console gradle build results to JUnit view by one click&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Virtual root project&lt;/li&gt;
+&lt;li&gt;Synchronization by one click&lt;/li&gt;
+&lt;li&gt;Keywords are highlighted in Console&lt;/li&gt;
+&lt;li&gt;Integrated eclipse help&lt;/li&gt;
+&lt;li&gt;Multiple ways to import gradle projects&lt;/li&gt;
+&lt;li&gt;Can automatically set build folders as &quot;derived&quot;&lt;/li&gt;
+&lt;li&gt;Rebuild working sets on re-importing gradle projects&lt;/li&gt;
+&lt;/ul&gt;
+Additional Links
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/egradle/wiki&quot; rel=&quot;nofollow&quot;&gt;EGradle Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://rawgit.com/de-jcup/egradle/master/egradle-plugin-main/html/toc.html&quot; rel=&quot;nofollow&quot;&gt;Online help preview (master branch)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLnO8pgGpD7DlvsszAIjM26_2_0B9VJV4n&quot; rel=&quot;nofollow&quot;&gt;Tutorial playlist on YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://plus.google.com/u/0/b/110015234908380752132/collection/s8j0ME&quot; rel=&quot;nofollow&quot;&gt;EGradle news at Google+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/egradle/issues&quot; rel=&quot;nofollow&quot;&gt;Issue tracker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/egradle/releases&quot; rel=&quot;nofollow&quot;&gt;Release history&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/egradle&quot; rel=&quot;nofollow&quot;&gt;Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 13 Sep 2016 18:26:23 +0000</pubDate>
+ <dc:creator>atregnaghi</dc:creator>
+ <guid isPermaLink="false">3071167 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/egradle-ide#comments</comments>
+  </item>
+  <item>
+    <title>Eclipse 4GL Plug-In for Eclipse</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-4gl-plug-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-06-07 05:00&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22CHILIBYTES%20GmbH%22&quot;&gt;CHILIBYTES GmbH&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2015-04-17 05:22&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/cmisingname48x/listings&quot; title=&quot;Thomas Neumaier&quot;&gt;Thomas Neumaier&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The &lt;strong&gt;Eclipse 4GL Plug-In&lt;/strong&gt; is developed in Java by CHILIBYTES and allows convenient editing of 4GL source code files in Eclipse. Among other features, Eclipse 4GL offers: • Syntax Highlighting • Outlining • Code Folding • Auto Completion • IntelliSense • Global Includes Direct Access &lt;strong&gt;Benefits&lt;/strong&gt; Simple and fast code editing directly from inside the IDE. Multiple developers can work on the same projects. Complete versioning support in the IDE provided by the plug-in. &lt;strong&gt;Technical Information&lt;/strong&gt; • &lt;em&gt;Operating systems:&lt;/em&gt; aix, hpux, linux, macosx, qnx, solaris, win32 • &lt;em&gt;Window systems:&lt;/em&gt; carbon, gtk, motif, photon, win32, wpf • &lt;em&gt;Language support:&lt;/em&gt; de, de-DE, en, en-EN • &lt;em&gt;Architecture:&lt;/em&gt; ia64, ia64_32, PA_RISC, ppc, sparc, x86, x86_64 &lt;strong&gt;Documentation, User Guide, Change Log&lt;/strong&gt; &lt;a href=&quot;https://cda.chilibytes.com/confluence/display/E4P/Eclipse+4GL+Plugin&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Eclipse 4Gl Plug-In&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 17 Apr 2015 09:22:54 +0000</pubDate>
+ <dc:creator>cmisingname48x</dc:creator>
+ <guid isPermaLink="false">2296271 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-4gl-plug-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>Synopsys Code Sight</title>
+    <link>http://marketplace.eclipse.org/content/synopsys-code-sight</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/snps-logo-sts-purple-grey.jpg&quot; width=&quot;110&quot; height=&quot;35&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2019-06-06 17:14&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Synopsys%20Inc%22&quot;&gt;Synopsys Inc&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-02-15 16:30&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/scodesight/listings&quot; title=&quot;Synopsys Code Sight&quot;&gt;Synopsys Code Sight&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Synopsys® Code Sight™ plug-in helps identify quality bugs and security vulnerabilities in your software.&lt;/p&gt;
+&lt;p&gt;Using the Coverity Static Analysis tool, it automatically scans your code for these types of issues and highlights them in the development-environment editor as you code.&lt;/p&gt;
+&lt;p&gt;Connecting to a Synopsys server improves scan performance and enables your entire development team to collaborate on writing better code faster.&lt;/p&gt;
+&lt;p&gt;In the future, the plug-in will support our other tools including Black Duck for SCA &amp;amp; Seeker for IAST.&lt;/p&gt;
+&lt;p&gt;See what the plug-in looks like in our interactive demo: &lt;a href=&quot;http://ior.ad/6wOM&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Code Sight Quick Tour&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A functional Coverity license is required to run Code Sight. Please check with your local administrator or contact  &lt;strong&gt;&lt;a href=&quot;mailto:sales@synopsys.com&quot; rel=&quot;nofollow&quot;&gt;sales@synopsys.com&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Documentation for Installation, Getting Started, etc. can be found here: &lt;a href=&quot;https://community.synopsys.com/s/code-sight-hub&quot; rel=&quot;nofollow&quot;&gt;https://community.synopsys.com/s/code-sight-hub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please &lt;a href=&quot;https://www.synopsys.com/content/dam/synopsys/sig-assets/legal/eulm/2019-2/eEULM-(all%20regions)-v2019-2-final.pdf&quot; rel=&quot;nofollow&quot;&gt;click here&lt;/a&gt; to read the Synopsys End User License Agreement.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 15 Feb 2019 21:30:35 +0000</pubDate>
+ <dc:creator>scodesight</dc:creator>
+ <guid isPermaLink="false">4503269 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/synopsys-code-sight#comments</comments>
+  </item>
+  <item>
+    <title>eXERD Data Modeling</title>
+    <link>http://marketplace.eclipse.org/content/exerd-data-modeling</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/linkedin_exerd_bi_0.jpg&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2019-06-06 16:42&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Tomato%20System%20Co.%2C%20Ltd%22&quot;&gt;Tomato System Co., Ltd&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2013-11-13 21:31&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/etomatosystemcokr/listings&quot; title=&quot;eXERD TomatoSystem&quot;&gt;eXERD TomatoSystem&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;eXERD is an Eclipse-based, intelligent and intuitive E-R modeling tool that will offer you a new world of modeling!&lt;/p&gt;
+&lt;p&gt;The data modeling tool is designed not only for experienced users but also suitable for beginners who are new to database modeling.&lt;/p&gt;
+&lt;p&gt;eXERD supports editing physical properties – including reverse/forward engineering from/to Oracle, Microsoft SQL Server, IBM DB2, and MySQL.&lt;/p&gt;
+&lt;h2&gt;Powerful Automated Features:&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;Beautiful and user-friendly UI
+&lt;ul&gt;&lt;li&gt;Inline WYSIWYG Editing&lt;/li&gt;
+&lt;li&gt;Logical/physical mode&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Visual Feedback&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;Comparison / Merge&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Animation &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Context Help Messages&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Live Validation&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;Review and Modification&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Innovative Artificial Intelligence&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Forward/Reverse Engineering&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Document Compatibility&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;Data Dictionary&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Powerful XScript Engine&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://exerd.com&quot; rel=&quot;nofollow&quot;&gt;Details...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;How to Install&lt;/h2&gt;
+&lt;p&gt;Uncheck &quot;Contact all update sites...&quot;.&lt;/p&gt;
+
+
+
+&lt;h2&gt;Download&lt;/h2&gt;
+&lt;p&gt;Evaluation copy allows all functions of eXERD for 30 days with some restrictions described below.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Printed diagrams contain “Tomato System” watermark.&lt;/li&gt;
+&lt;li&gt;When you save your diagrams, a purchase info dialog will show up.&lt;/li&gt;
+&lt;li&gt;Can use eXERD for only evaluation purposes, not commercial purpose.&lt;/li&gt;
+&lt;li&gt;To use commercial purpose, you must purchase a valid license.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;http://exerd.com/en_US/#download-section&quot; rel=&quot;nofollow&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 14 Nov 2013 02:31:39 +0000</pubDate>
+ <dc:creator>etomatosystemcokr</dc:creator>
+ <guid isPermaLink="false">1306282 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/exerd-data-modeling#comments</comments>
+  </item>
+  <item>
+    <title>MCore Montages Core</title>
+    <link>http://marketplace.eclipse.org/content/mcore-montages-core</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/MontagesLogoWhileSmall228x78.gif&quot; width=&quot;110&quot; height=&quot;38&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2019-06-06 12:51&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Montages%20Open%20Source%20Project%22&quot;&gt;Montages Open Source Project&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2015-08-27 11:36&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pkutter/listings&quot; title=&quot;Philipp W. Kutter&quot;&gt;Philipp W. Kutter&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;MCore is a platform specific modeling language (PSML) targeted to the Eclipse + ECore + OCL platform. It provides a generic tabular syntax (like Excel sheets) both for itself, as well as a specialized tabular syntax for any model defined in MCore. It provides a bidirectional mapping from and to ECore, allowing to apply it to any ECore model. Also it generates standard ECore code. MCore is a tool to&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;analyse&lt;/strong&gt; your business problems both in diagrams and tables&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;design and implement&lt;/strong&gt; solutions using a tabular interface, similar to a business rule editor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;build, deploy, and operate&lt;/strong&gt; your business in a tailored generated solution looking like a simple excel sheet, but behaving like a full scaled business software.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;With MCore you can literally save milions by avoiding to run or implement suboptimal or wrong solutions. The savings will result from&lt;/p&gt;
+&lt;dl&gt;&lt;dt&gt;Stability in Operations&lt;/dt&gt;
+&lt;dd&gt;
+&lt;ul&gt;&lt;li&gt;avoided operational risks&lt;/li&gt;
+&lt;li&gt;improved coherence to rules&lt;/li&gt;
+&lt;/ul&gt;&lt;/dd&gt;
+&lt;dt&gt;Cost Reduction in Projects&lt;/dt&gt;
+&lt;dd&gt;
+&lt;ul&gt;&lt;li&gt;saved time from business experts&lt;/li&gt;
+&lt;li&gt;saved IT costs&lt;/li&gt;
+&lt;/ul&gt;&lt;/dd&gt;
+&lt;dt&gt;Faster Time to Market&lt;/dt&gt;
+&lt;dd&gt;
+&lt;ul&gt;&lt;li&gt;gained agility&lt;/li&gt;
+&lt;li&gt;optimized processes&lt;/li&gt;
+&lt;/ul&gt;&lt;/dd&gt;
+&lt;/dl&gt;&lt;ul&gt;&lt;/ul&gt;&lt;p&gt;The &lt;strong&gt;main advantages of MCore&lt;/strong&gt; are:&lt;/p&gt;
+&lt;dl&gt;&lt;dt&gt;Simple and Rigid Solutioning&lt;/dt&gt;
+&lt;dd&gt;
+&lt;ul&gt;&lt;li&gt;MCore provides a simple but rigid tool for solving problems. It is covering analysis of the problem as well as design and implementation of the solution. Business can then be operated directly using the automatically generated, built, and deployed software.&lt;/li&gt;
+&lt;/ul&gt;&lt;/dd&gt;
+&lt;dt&gt;Next Gen &quot;Paper Based&quot;&lt;/dt&gt;
+&lt;dd&gt;
+&lt;ul&gt;&lt;li&gt;The newest and most profitable business models of an organization are typically run in a so called &quot;paper based&quot; way, simply because waiting for IT canot be afforded. MCore is as simple as the typical tools used for this (e.g. Excel, Access, Visio), but is open and scales from simple to complex.&lt;/li&gt;
+&lt;/ul&gt;&lt;/dd&gt;
+&lt;dt&gt;Coalescing Analysis &amp;amp; Operations&lt;/dt&gt;
+&lt;dd&gt;
+&lt;ul&gt;&lt;li&gt;Nowadays activities of analysis, implementation and operations are coalescing. MCore borrows the business friendly tabular interface from Excel, and makes it available to the business user, across analysis, implementation, and operation activities.&lt;/li&gt;
+&lt;/ul&gt;&lt;/dd&gt;
+&lt;/dl&gt;&lt;p&gt;In addition you get with MCore tooling:&lt;/p&gt;
+&lt;dl&gt;&lt;dt&gt;RULES&lt;/dt&gt;
+&lt;dd&gt;
+&lt;ul&gt;&lt;li&gt;Calculations are defined  in a business rule editor, with pulldowns and forms. &lt;strong&gt;ADVANTAGE:&lt;/strong&gt; no need to learn textual syntax as in Excel or to program&lt;/li&gt;
+&lt;/ul&gt;&lt;/dd&gt;
+&lt;dt&gt;NESTING&lt;/dt&gt;
+&lt;dd&gt;
+&lt;ul&gt;&lt;li&gt;Tables of objects can be nested, through a tree like folding structure. &lt;strong&gt;ADVANTAGE:&lt;/strong&gt; to display and manage 1000 objects, you simply introduce three hierarchy levels, resulting on 10 objects per level&lt;/li&gt;
+&lt;/ul&gt;&lt;/dd&gt;
+&lt;dt&gt;OBJECTS&lt;/dt&gt;
+&lt;dd&gt;
+&lt;ul&gt;&lt;li&gt;objects can be directly referenced, rather than using any kind of &quot;key&quot;. &lt;strong&gt;ADVANTAGE:&lt;/strong&gt; references remain valid infinitely through a unique ID assigned to every object on creation.&lt;/li&gt;
+&lt;/ul&gt;&lt;/dd&gt;
+&lt;dt&gt;DIAGRAMS&lt;/dt&gt;
+&lt;dd&gt;
+&lt;ul&gt;&lt;li&gt;A diagrammatic view like in Visio is provided for objects, their concepts and relations. &lt;strong&gt;ADVANTAGE:&lt;/strong&gt; no need to leave the real data to discuss a few objects and to clarify the underlying concepts and relations.&lt;/li&gt;
+&lt;/ul&gt;&lt;/dd&gt;
+&lt;dt&gt;SPECIALIZATION&lt;/dt&gt;
+&lt;dd&gt;
+&lt;ul&gt;&lt;li&gt;Mature structures and calculations can be deployed like real software. &lt;strong&gt;ADVANTAGE:&lt;/strong&gt; if your structure and calculations become mature, can generate a specialized tool for your domain!&lt;/li&gt;
+&lt;/ul&gt;&lt;/dd&gt;
+&lt;dt&gt;REUSE&lt;/dt&gt;
+&lt;dd&gt;
+&lt;ul&gt;&lt;li&gt;Hand over to IT becomes smooth, as the needed IT artefacts are generated for you. &lt;strong&gt;ADVANTAGE:&lt;/strong&gt; if your new business model moves from &quot;paper based&quot; to IT managed, you can simply hand over the MCore model!&lt;/li&gt;
+&lt;/ul&gt;&lt;/dd&gt;
+&lt;/dl&gt;&lt;p&gt;The licence model is EPL &lt;em&gt;(ATTENTION: we need to update the licence info in the code...)&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 27 Aug 2015 15:36:25 +0000</pubDate>
+ <dc:creator>pkutter</dc:creator>
+ <guid isPermaLink="false">2501807 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/mcore-montages-core#comments</comments>
+  </item>
+  <item>
+    <title>Angular Development Tool For Eclipse</title>
+    <link>http://marketplace.eclipse.org/content/angular-development-tool-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2019-06-06 10:47&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Austin%20Fu%22&quot;&gt;Austin Fu&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-06-03 15:04&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/austinfu/listings&quot; title=&quot;Austin Fu&quot;&gt;Austin Fu&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A light-weighted Angular Development Tool for Eclipse including:&lt;/p&gt;
+&lt;p&gt;1. TypeScript and Angular Micro Syntax Language syntax parser generated from grammar files written in ANTLR&lt;/p&gt;
+&lt;p&gt;2. A TypeScript Editor that supports real-time syntax parsing and coloring, code folding/expanding, auto completion proposals, hyperlink and navigation, syntax and semantic problem detecting and quick fix proposal, element renaming, source code formatting&lt;/p&gt;
+&lt;p&gt;3. Extensions to Eclipse WTP html editor for Angular templates editing - auto completion proposals, hyperlink and navigation, syntax and semantic problem detecting&lt;/p&gt;
+&lt;p&gt;4. A View to show all references of element selected in TypeScript Editor&lt;/p&gt;
+&lt;p&gt;5. TypeScript code structure Outline Page&lt;/p&gt;
+&lt;p&gt;6. Internal model manager to maintain integrity of TypeScript and Angular model, dependencies and relations between elements and modules&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Installation requirements:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;1. Eclipse Version and Plugins required&lt;/p&gt;
+&lt;p&gt;Eclipse version should not matter but must be installed with JDT (Eclipse Java development tools) and Eclipse WTP (Web Tool Platform) Plugins&lt;/p&gt;
+&lt;p&gt;2. Memory&lt;/p&gt;
+&lt;p&gt;It’s strongly recommended that “-Xmx” option in “eclipse.ini” file is configured to no less than 1536 M:&lt;/p&gt;
+&lt;p&gt;-Xmx1536m&lt;/p&gt;
+&lt;p&gt;3. Angular CLI, TypeScript compiler and npm&lt;/p&gt;
+&lt;p&gt;This plugin is designed to work together with Angular CLI, TypeScript compiler and NodeJs npm. Make sure you have npm installed first and then use npm to install &amp;amp; maintain Angular CLI and TypeScript compiler&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;How to start&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;First of all, you need to have an Angular project in your Eclipse workspace or create a new one.  Then no need to make any configuration change, just open any TypeScript source file with  the TypeScript editor called &quot;ADT TsEditor&quot; or open  HTML file user Eclipse html editor,  and you&#039;re good to go!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 03 Jun 2019 19:04:46 +0000</pubDate>
+ <dc:creator>austinfu</dc:creator>
+ <guid isPermaLink="false">4663327 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/angular-development-tool-eclipse#comments</comments>
+  </item>
+  </channel>
+</rss>
